@@ -133,9 +133,9 @@ int otp = 0;
 // Stores the value of OTP entered by user
 int otp_entered = 0;
 
-// ThingSpeak credentials
-unsigned long int ts_channel = 1549752;
-const char * myWriteAPIKey = "44DHTSAPMAV41HAX";
+// Enter ThingSpeak credentials here
+unsigned long int ts_channel = 00;
+const char * myWriteAPIKey = "...";
 
 // Declaration of atm class
 // Initiallized with a balance of 25000 INR
